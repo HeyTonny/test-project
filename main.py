@@ -4,6 +4,8 @@ def print_info_user(name, last_name, house, street):
     print(house)
     print(street)
 
+
+print('Информация о клиенте')
 name = input('Введите ваше имя: ')
 last_name = input('Введите вашу фамилию: ')
 house= input('Введите ваш дом: ')
